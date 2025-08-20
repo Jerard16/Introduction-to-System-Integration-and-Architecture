@@ -1,1 +1,5 @@
-# Introduction-to-System-Integration-and-Architecture
+Introduction to System Integration and Architecture is a subject I expect will help me understand how different parts of a computer system work together. I want to learn how software, hardware, and networks connect and share information. I believe this knowledge is important because today’s systems are made up of many different components that must work smoothly as one.
+
+I also hope to learn about different system designs, like cloud systems or client-server models. I’m interested in how companies use tools like APIs and software to connect different systems. I think doing hands-on activities or group projects will help me understand how system integration works in real life.
+
+By the end of this subject, I expect to have a better understanding of how to build and manage complete systems. I want to be able to think clearly about how systems are designed and how to solve problems when different parts don’t work well together. This subject will help prepare me for future work in IT or computer science.
